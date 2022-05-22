@@ -1,9 +1,9 @@
 # Wikipedia-Search-App
 
 Wikipedia Search App with JavaScript
-<br><br>Try it out here: [Link To Live Site](https://beckyGia.github.io/Wikipedia-Search-App/) ✨
+<br><br>Try it out here: [Link To Live Site](https://beckygia.github.io/Wikipedia-Search-App/) ✨
 
-![demo](https://github.com/tdo95/Wikipedia-Search-App/blob/main/wikipediasearchapp.gif)
+![demo](https://github.com/beckygia/Wikipedia-Search-App/blob/main/wikipediasearchapp.gif)
 
 ## 🚀 Technologies used
 
